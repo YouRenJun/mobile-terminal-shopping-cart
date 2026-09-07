@@ -1,5 +1,8 @@
 # Vue3 移动端购物车项目
 
+> [!IMPORTANT]
+> **历史学习项目，已停止维护。** 本仓库没有可用后端，登录、注册、头像上传及服务器数据交互均未完成。较新的配套练习请查看 [商城前端](https://github.com/YouRen1320/shopping_cart_frontEnd) 与 [商城后端](https://github.com/YouRen1320/shopping_cart_afterEnd)。代码和提交历史继续保留。
+
 ## 项目介绍
 
   该项目是一个基于 **Vite** 和 **Vue 3** 创建的移动端网页购物车应用，提供了常见的电商功能，包括商品列表展示、商品详情查看、购物车的增删改查（CRUD）、用户注册和登录、头像上传等功能。
